@@ -1,2 +1,2 @@
 var g = G$('Rahilka', 'Simonova');
-console.log(g);
+g.greet().setLang('es').greet(true);
